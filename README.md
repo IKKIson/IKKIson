@@ -1,7 +1,5 @@
 ## LOG
-* [![IkhyeonSON's github stats](https://github-readme-stats.vercel.app/api?username=IKKIson&count_private=true&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-* [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IKKIson&hide=css,html,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![IkhyeonSON's github stats](https://github-readme-stats.vercel.app/api?username=IKKIson&count_private=true&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IKKIson&layout=compact&hide=css,html,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 * ### :seedling::email: Personal Mail : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shout2517@gmail.com)](mailto:shout2517@gmail.com) 
