@@ -17,7 +17,7 @@
 
 ---
 
-[![IkhyeonSON's github stats](https://github-readme-stats.vercel.app/api?username=IKKIson&count_private=true&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IKKIson&layout=compact&hide=css,html,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![IkhyeonSON's github stats](https://github-readme-stats.vercel.app/api?username=IKKIson&count_private=true&theme=chartreuse-ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IKKIson&layout=compact&hide=css,html,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
